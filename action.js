@@ -20,7 +20,7 @@ function checkEmail() {
     }
     return userEmail;
 
-}
+} // always return user
 // ----------------------------------------------- Check Name
 function checkName() {
     console.log("Checking name...");
